@@ -1,0 +1,7 @@
+eclipse-plugin-builders
+=======================
+
+.. toctree::
+   :maxdepth: 4
+
+   eclipse_plugin_builders

@@ -1,0 +1,10 @@
+eclipse\_plugin\_builders package
+=================================
+
+Module contents
+---------------
+
+.. automodule:: eclipse_plugin_builders
+   :members:
+   :undoc-members:
+   :show-inheritance:
